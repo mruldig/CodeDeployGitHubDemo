@@ -1,5 +1,6 @@
 #!/bin/bash
 echo "testing"
 echo "here we go again!"
+echo "=================="
 service httpd start
 
